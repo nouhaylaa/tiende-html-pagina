@@ -4,6 +4,10 @@ const makePizza = function () {
     console.log("Put the pizza in the oven");
     console.log("Take the pizza out the oven and serve it");
 };
+makePizza();
+makePizza();
+makePizza();
+
 const makeSushi = function () {
     console.log("Cook the sushi rice");
     console.log("Chop the vegetables and fish");
